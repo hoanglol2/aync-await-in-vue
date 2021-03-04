@@ -1,0 +1,22 @@
+#app {
+    width: 700px;
+    margin: 150px auto;
+}
+
+.form-label {
+    display: block;
+    margin-bottom: .5rem;
+}
+
+.form-input {
+    width: 100%;
+    padding: 8px 16px;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+.list-data {
+    margin-bottom: 2.5rem;
+}
